@@ -91,7 +91,8 @@ $(document).ready( function(){
 $(document).ready( function(){
 	
 $('#bg-image').backstretch([
-"https://image.ibb.co/dPsyoV/1.jpg"
+"https://image.ibb.co/cgRnkA/israil.jpg"	
+, "https://image.ibb.co/dPsyoV/1.jpg"
 , "https://image.ibb.co/f61NyV/2.jpg"
 , "https://image.ibb.co/dvpgsq/3.jpg"
 , "https://image.ibb.co/gKJSyV/4.jpg"
